@@ -51,4 +51,4 @@
 
 ## Автор
 
-[Пулат Сафаров](https://github.com/ppul6-ai) · [Telegram](https://t.me/PulatSafarov)
+[Пулат Сафаров](https://github.com/ppulov6-ai) · [Telegram](https://t.me/PulatSafarov)
